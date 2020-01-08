@@ -25,7 +25,7 @@ Kursusetöö:
 	<li>Esimene on õpilase valikul veebileht, leheküljel peab olema vähemalt 10 lehte, sisu, vähemalt 1 pildigallerii, millele klickides liigub kasutaja selle pildiga retseptile ja 3 ise tehtud menüüd.</li>
 	<li>Teine blogi hoiab dokumentatsiooni esimese veebilehe kohta.</li>
 	<li>Blogis on kirjas millised muudatused on veebilehele tehtud, milline funktsionaalsus menüüdel on, pildinäited veebilehe 	erinevustest ja versioonid. Samuti on olemas lingid veebilehele ja githubi repole, kus on olemas commitide ajalooga prototüüp.
-	</li>
+	(Miinimum 10 postitust)</li>
 	<li>Prototüüp peab olema funktsionaalne ja esitab valminud lehekülge.</li>
 	<li>Kui kõik eelmised nõuded on täidetud, on kursus läbitud.</li>
 </ul>
