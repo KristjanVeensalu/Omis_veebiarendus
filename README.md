@@ -13,16 +13,21 @@ Kasulikud lingid:
 	<br></br>
 	<li>https://htmlcheatsheet.com/css/</li>
 	<br></br>
+	<li>https://wordpress.com/</li>
+	<br></br>
+	<li>https://wordpress.org</li>
+	<br></br>
 </ul>
 
-Kodune töö:
+Kursuse töö:
 <ul>
-	<li>Koostada lehekülg sisselogimise formiga.</li>
-	<li>Sisselogimisel näitab lehekülg consoleis kasutajanime ja parooli.</li>
-	<li>Kui on sisse logitud tekib leheküljele 3 uut inputi</li>
-	<li>Nende täitmisel tekib tabel, mille sees on sisestatud info.</li>
-	<li>Kui login välja, näitab lehekülg alertiga kui kaua oli kasutaja sisse logitud.</li>
-	<li>Peale alerti laetakse lehekülg uuesti.</li>
-	<li>Stiili lisada minimaalselt.</li>
-	<li>Plusspunktide jaoks võiks olla inputiga võimalik lehekülje stiili muuta</li>
+	<li>Koostada 2 Wordpressi lehekülge koos prototüübiga.</li>
+	<li>Esimene on õpilase valikul veebileht, leheküljel peab olema vähemalt 10 lehte, sisu, vähemalt 1 pildigallerii, millele klickides liigub kasutaja selle pildiga retseptile ja 3 ise tehtud menüüd.</li>
+	<li>Teine blogi hoiab dokumentatsiooni esimese veebilehe kohta.</li>
+	<li>Blogis on kirjas millised muudatused on veebilehele tehtud, milline funktsionaalsus menüüdel on, pildinäited veebilehe 	erinevustest ja versioonid. Samuti on olemas lingid veebilehele ja githubi repole, kus on olemas commitide ajalooga prototüüp.
+	</li>
+	<li>Prototüüp peab olema funktsionaalne ja esitab valminud lehekülge.</li>
+	<li>Kui kõik eelmised nõuded on täidetud, on kursus läbitud.</li>
+	<li></li>
+	<li></li>
 </ul>
