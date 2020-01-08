@@ -27,5 +27,6 @@ Kursusetöö:
 	<li>Blogis on kirjas millised muudatused on veebilehele tehtud, milline funktsionaalsus menüüdel on, pildinäited veebilehe 	erinevustest ja versioonid. Samuti on olemas lingid veebilehele ja githubi repole, kus on olemas commitide ajalooga prototüüp.
 	(Miinimum 10 postitust)</li>
 	<li>Prototüüp peab olema funktsionaalne ja esitab valminud lehekülge.</li>
+	<li>Mõlemal blogil peaks olema vähemalt 2 kategooriat.</li>
 	<li>Kui kõik eelmised nõuded on täidetud, on kursus läbitud.</li>
 </ul>
