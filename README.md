@@ -19,7 +19,7 @@ Kasulikud lingid:
 	<br></br>
 </ul>
 
-Kursuse töö:
+Kursusetöö:
 <ul>
 	<li>Koostada 2 Wordpressi lehekülge koos prototüübiga.</li>
 	<li>Esimene on õpilase valikul veebileht, leheküljel peab olema vähemalt 10 lehte, sisu, vähemalt 1 pildigallerii, millele klickides liigub kasutaja selle pildiga retseptile ja 3 ise tehtud menüüd.</li>
@@ -28,6 +28,4 @@ Kursuse töö:
 	</li>
 	<li>Prototüüp peab olema funktsionaalne ja esitab valminud lehekülge.</li>
 	<li>Kui kõik eelmised nõuded on täidetud, on kursus läbitud.</li>
-	<li></li>
-	<li></li>
 </ul>
